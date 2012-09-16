@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/linuxdp/main"/>
+	<classpathentry kind="src" path="src/linuxdp/view"/>
+	<classpathentry kind="src" path="src/linuxdp/interface"/>
+	<classpathentry kind="src" path="src/linuxdp/severs"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="F:/NguyenThinh/Source Code/lib/miglayout-4.0-swing.jar"/>
+	<classpathentry kind="lib" path="F:/NguyenThinh/Source Code/lib/swingx-all-1.6.3.jar"/>
+	<classpathentry kind="lib" path="F:/NguyenThinh/Source Code/lib/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="F:/NguyenThinh/Source Code/lib/jcalendar-1.3.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
